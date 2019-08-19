@@ -5,4 +5,5 @@ My friend is planning to open a bar at Taichung, Taiwan after ending his militar
 
 ## Datasets
 1. District (Taiwan): https://en.wikipedia.org/wiki/District_(Taiwan)
-2. Venues in Taichung from Foursquare
+2. Geographics data: http://www.astrocode.net/%E5%8F%B0%E7%81%A3%E5%90%84%E7%B8%A3%E5%B8%82%E5%9C%B0%E5%8D%80%E7%B6%93%E7%B7%AF%E5%BA%A6/
+3. Venues in Taichung from Foursquare
